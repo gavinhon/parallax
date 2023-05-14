@@ -1,0 +1,22 @@
+.App,
+#root {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+}
+
+#cat {
+  height: 6rem;
+}
+
+.catLayer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.parallex-container {
+  background: linear-gradient(to bottom, black, rgb(60, 131, 173));
+}
